@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.gordyjack.jaavee.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"net.gordyjack.jaavll.mixin.ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
