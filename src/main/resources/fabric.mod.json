@@ -23,7 +23,6 @@
 		]
 	},
 	"mixins": [
-		"jaavll.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.3",
