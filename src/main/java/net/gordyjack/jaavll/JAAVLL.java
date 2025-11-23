@@ -2,6 +2,9 @@ package net.gordyjack.jaavll;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.minecraft.core.registries.*;
+import net.minecraft.resources.*;
+import net.minecraft.world.level.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

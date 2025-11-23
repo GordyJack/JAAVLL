@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"main": [
           "net.gordyjack.jaavll.JAAVLL"
-		],
-		"fabric-datagen": [
-          "net.gordyjack.jaavll.JAAVLLDataGenerator"
 		]
 	},
 	"mixins": [
